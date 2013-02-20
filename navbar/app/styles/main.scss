@@ -1,0 +1,61 @@
+@import "compass_twitter_bootstrap";
+
+$navmainlink: #fff;
+$dropmenubg: #999;
+
+body {
+	font-family: 'Segoe UI', sans-serif
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Segoe UI Light','Segoe UI', sans-serif;
+	font-weight: normal;
+}
+
+nav {
+	background-color: #666;
+	overflow: hidden;
+	a {
+		color: $navmainlink;
+	}
+}
+
+.topnavlink {
+	float: left;
+	display: inline-block;
+	a {
+		display: block;
+		padding: 0.75em 3em 1em;
+		float: left;
+		font-size: 18px;
+		border-right: 1px solid #787878;
+	}
+
+	a:hover {
+		background-color: orange;
+		color: $navmainlink;
+		text-decoration: none;
+	}
+
+	a:first-child {
+		background-image: url('/images/shield.png');
+		background-repeat: no-repeat;
+		background-position: 14px 12px;
+	}
+
+	a.open {
+		background-color: $dropmenubg;
+	}
+}
+
+.dropmenu {
+	display: none;
+	clear: both;
+	background-color: $dropmenubg;
+}
+
+
+
+
+
+

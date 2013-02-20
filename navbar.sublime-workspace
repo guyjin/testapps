@@ -1,0 +1,1665 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"scriptsrc",
+				"scriptsrc	JAVASCRIPT_scriptsrc"
+			],
+			[
+				"timeleft",
+				"timeleftalert"
+			],
+			[
+				"close",
+				"closeSession"
+			],
+			[
+				"search",
+				"searchUserlistname"
+			],
+			[
+				"CORRep",
+				"CORReportsLastNameDisambig"
+			],
+			[
+				"remove",
+				"removeUserAccess"
+			],
+			[
+				"discount",
+				"discountDay2Percent"
+			],
+			[
+				"STA",
+				"STANDBY_TIME_ROUNDING"
+			],
+			[
+				"round",
+				"roundingValue"
+			],
+			[
+				"heli",
+				"helicopterTypes"
+			],
+			[
+				"resetLIne",
+				"resetNewLineRateForm"
+			],
+			[
+				"fuel",
+				"fuelTypeCN"
+			],
+			[
+				"vendorContSearc",
+				"vendorContSearchResults"
+			],
+			[
+				"contractend",
+				"contractEndDateString"
+			],
+			[
+				"vendorDuns",
+				"vendorDunsSearchBtn"
+			],
+			[
+				"discountDay3",
+				"discountDay3"
+			],
+			[
+				"discountDay1",
+				"discountDay1Percent"
+			],
+			[
+				"contractedn",
+				"contractEndDateString"
+			],
+			[
+				"contractBase",
+				"contractBaseEndDateString"
+			],
+			[
+				"contractStart",
+				"contractStartDate"
+			],
+			[
+				"airc",
+				"aircraftLineRates"
+			],
+			[
+				"contractEnd",
+				"contractEndDateString"
+			],
+			[
+				"contractbase",
+				"contractBaseEndDateString"
+			],
+			[
+				"Tail",
+				"TailNumberRates"
+			],
+			[
+				"new",
+				"newRate"
+			],
+			[
+				"tailnumbers",
+				"tailnumberlist"
+			],
+			[
+				"insert",
+				"insertNewLineRate"
+			],
+			[
+				"append",
+				"appendTo  (function)"
+			],
+			[
+				"airca",
+				"aircraftType"
+			],
+			[
+				"tailnumber",
+				"tailnumberlist"
+			],
+			[
+				"He",
+				"helicopterTypes"
+			],
+			[
+				"helicopter",
+				"helicopterTypes"
+			],
+			[
+				"tail",
+				"tailnumberlist"
+			],
+			[
+				"Air",
+				"AIRCRAFT_TYPE"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"RATE",
+				"RATE_OPTION_CN"
+			],
+			[
+				"Expi",
+				"EXPIRATION_DATE"
+			],
+			[
+				"Eff",
+				"EFFECTIVE_DATE"
+			],
+			[
+				"start",
+				"startdate"
+			],
+			[
+				"current",
+				"currentrateid"
+			],
+			[
+				"contractEndDate",
+				"contractEndDate"
+			],
+			[
+				"contractBaseEnd",
+				"contractBaseEndDate"
+			],
+			[
+				"contractBaseEndDat",
+				"contractBaseEndDateString"
+			],
+			[
+				"contractStartDa",
+				"contractStartDateString"
+			],
+			[
+				"tailnum",
+				"tailnumbers"
+			],
+			[
+				"check",
+				"checkNewBaseRate"
+			],
+			[
+				"aircraft",
+				"aircraftType"
+			],
+			[
+				"aircr",
+				"aircraftTypes"
+			],
+			[
+				"fill",
+				"fillDefaultBaseRates"
+			],
+			[
+				"Ex",
+				"EXPIRATION_DATE"
+			],
+			[
+				"RA",
+				"RATE_TYPE_CN"
+			],
+			[
+				"ba",
+				"baseRates"
+			],
+			[
+				"baserate",
+				"baseratesbox"
+			],
+			[
+				"addBase",
+				"addBaseRate"
+			],
+			[
+				"date",
+				"dateOverlapCheck"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"Contr",
+				"ContractModel"
+			],
+			[
+				"session",
+				"sessionCountDown"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"data-",
+				"data-toggle=  (attribute)"
+			],
+			[
+				"Price",
+				"PRICE_PER_UNIT"
+			],
+			[
+				"E",
+				"EXPIRATION_DATE"
+			],
+			[
+				"contractType",
+				"contractType"
+			],
+			[
+				"load",
+				"loadLineRates"
+			],
+			[
+				"result",
+				"resultsCount"
+			],
+			[
+				"un",
+				"unavailabilityRounding"
+			],
+			[
+				"contr",
+				"contractNumber"
+			],
+			[
+				"wait",
+				"waitCursor"
+			],
+			[
+				"type",
+				"type=  (attribute)"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"obser",
+				"observableArray"
+			],
+			[
+				"n",
+				"nth-child(  (pseudo-class)"
+			],
+			[
+				"ob",
+				"observableArray"
+			],
+			[
+				"app",
+				"applyBindings"
+			],
+			[
+				"contract",
+				"contractEndDate"
+			],
+			[
+				"query",
+				"QueryRow"
+			],
+			[
+				"stmt",
+				"stmtCN"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"soap-e",
+				"soap-env"
+			],
+			[
+				"simplex",
+				"simplexml_load_string"
+			],
+			[
+				"xml",
+				"xml_parser_create"
+			],
+			[
+				"bb",
+				"border-bottom"
+			],
+			[
+				"message",
+				"messageId"
+			],
+			[
+				"SUP",
+				"SUPV_LAST_NAME"
+			],
+			[
+				"APP",
+				"APPROVAL_AMOUNT"
+			],
+			[
+				"appro",
+				"approvalAmount"
+			],
+			[
+				"supv",
+				"supv_first_name"
+			],
+			[
+				"user",
+				"userCN"
+			],
+			[
+				"approval",
+				"approvalAmount"
+			],
+			[
+				"approv",
+				"approvalType"
+			],
+			[
+				"warra",
+				"warrantAmount"
+			],
+			[
+				"warrant",
+				"warrantType"
+			],
+			[
+				"release",
+				"releaseApproval"
+			],
+			[
+				"self",
+				"selfApproval"
+			],
+			[
+				"selfA",
+				"selfApproval"
+			],
+			[
+				"impor",
+				"importPage"
+			],
+			[
+				"page",
+				"pagecount"
+			],
+			[
+				"dir",
+				"dirpath"
+			],
+			[
+				"dispatch",
+				"dispatchCenterId"
+			],
+			[
+				"is",
+				"isAgMatch"
+			],
+			[
+				"ra",
+				"ready	document ready - jQuery"
+			],
+			[
+				"tar",
+				"target=  (attribute)"
+			],
+			[
+				"done",
+				"done_sql"
+			],
+			[
+				"topic",
+				"topicSetup"
+			],
+			[
+				"Tw",
+				"\"Tw Cen MT Condensed\""
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"fadeOut",
+				"fadeOutConfirm"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"P_",
+				"P_TRANS_NUM"
+			],
+			[
+				"ocife",
+				"oci_fetch_all"
+			],
+			[
+				"str_",
+				"str_ireplace"
+			],
+			[
+				"office",
+				"officeidsearch"
+			],
+			[
+				"Contra",
+				"contracting"
+			],
+			[
+				"alt",
+				"alt=  (attribute)"
+			],
+			[
+				"opp",
+				"opportunities"
+			],
+			[
+				"opps",
+				"oppscount"
+			],
+			[
+				"awards",
+				"awardsfile"
+			],
+			[
+				"oppo",
+				"opportunity"
+			],
+			[
+				"rate",
+				"ratetable"
+			],
+			[
+				"table",
+				"table-bordered"
+			],
+			[
+				"K_P",
+				"K_PATH_MAIN"
+			],
+			[
+				"cancel",
+				"cancelAddTailNum"
+			],
+			[
+				"add",
+				"addTailNumOptions"
+			],
+			[
+				"ta",
+				"table-row"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"clear",
+				"clearBaseRateBtn"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "navbar/app/index.html",
+			"settings":
+			{
+				"buffer_size": 4185,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "navbar/app/styles/main.scss",
+			"settings":
+			{
+				"buffer_size": 845,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "navbar/app/scripts/main.js",
+			"settings":
+			{
+				"buffer_size": 533,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 110.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax: sa",
+				"Set Syntax: Sass"
+			],
+			[
+				"svn file commit",
+				"SVN: (File) Commit"
+			],
+			[
+				"svn update",
+				"SVN: Update"
+			],
+			[
+				"svn file update",
+				"SVN: (File) Update"
+			],
+			[
+				"svn file com",
+				"SVN: (File) Commit"
+			],
+			[
+				"svn file revert",
+				"SVN: (File) Revert"
+			],
+			[
+				"svn diff",
+				"SVN: Diff"
+			],
+			[
+				"svn file  commit",
+				"SVN: (File) Commit"
+			],
+			[
+				"svn file up",
+				"SVN: (File) Update"
+			],
+			[
+				"update",
+				"SVN: Update"
+			],
+			[
+				"svn file commit ",
+				"SVN: (File) Commit"
+			],
+			[
+				"svn file comm",
+				"SVN: (File) Commit"
+			],
+			[
+				"svn file commt",
+				"SVN: (File) Commit"
+			],
+			[
+				"svn file commit	",
+				"SVN: (File) Commit"
+			],
+			[
+				"svn commit",
+				"SVN: Commit…"
+			],
+			[
+				"svn file commi",
+				"SVN: (File) Commit"
+			],
+			[
+				"svn filecom",
+				"SVN: (File) Commit"
+			],
+			[
+				"Snippet: ",
+				"Snippet: ajax"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: cl",
+				"Snippet: consolelog"
+			],
+			[
+				"svn file re",
+				"SVN: (File) Revert"
+			],
+			[
+				"set html",
+				"Set Syntax: HTML"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Controll",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"svn: file comm",
+				"SVN: (File) Commit"
+			],
+			[
+				"svn: file commit",
+				"SVN: (File) Commit"
+			],
+			[
+				"svn:(file) commit",
+				"SVN: (File) Commit"
+			],
+			[
+				"svn:commit",
+				"SVN: (File) Commit"
+			],
+			[
+				"svn: commit",
+				"SVN: (Folder) Commit"
+			],
+			[
+				"svn: revert",
+				"SVN: (File) Revert"
+			],
+			[
+				"svn: c",
+				"SVN: Commit…"
+			],
+			[
+				"SVN: Re",
+				"SVN: (Folder) Revert"
+			],
+			[
+				"svn:rever",
+				"SVN: (File) Revert"
+			],
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP CodeSniffer: ",
+				"PHP CodeSniffer: Sniff This File"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"SVN: ",
+				"SVN: Commit…"
+			],
+			[
+				"svn",
+				"Preferences: SVN Key Bindings"
+			],
+			[
+				"PHP",
+				"PHP CodeSniffer: Sniff This File"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/bvaughan/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1361378344/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1361377577/SVN",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/ajaxContractSearch.php",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1361377511/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1361374853/SVN",
+		"/C/apache2/htdocs/aqm2/apps/appConfig.php",
+		"/C/apache2/htdocs/aqm2/core/php/DB.class.php",
+		"/C/apache2/htdocs/aqm2/core/php/App.class.php",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/ajaxRatesSave.php",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/ajaxLineSave.php",
+		"/C/apache2/htdocs/aqm2/core/js/apps/wo/eav.js",
+		"/C/apache2/htdocs/aqm2/templates/layoutTemplateAppNoStyleH.php",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1361311954/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1361306753/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1361303920/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1361302688/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1361302132/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1361301961/SVN",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/ajaxLineRates.php",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/ajaxHeaderSave.php",
+		"/C/apache2/htdocs/aqm2/content/apps/wo/EAV/indexContent.php",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360961275/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360960601/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360960050/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360959680/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360959652/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360949073/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360783982/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360701806/SVN",
+		"/C/apache2/htdocs/aqm2/content/apps/wo/vcct/indexContent.php",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/ajaxContractLocks.php",
+		"/C/apache2/htdocs/aqm2/templates/layoutTemplateHNF_wide.php",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360699711/SVN",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/index.php",
+		"/c/users/bvaughan/appdata/local/temp/2/sublime-svn-1360620037/SVN",
+		"/c/users/bvaughan/appdata/local/temp/2/sublime-svn-1360619867/SVN",
+		"/c/users/bvaughan/appdata/local/temp/2/sublime-svn-1360618511/SVN",
+		"/c/users/bvaughan/appdata/local/temp/2/sublime-svn-1360617443/SVN",
+		"/c/users/bvaughan/appdata/local/temp/2/sublime-svn-1360617296/SVN",
+		"/c/users/bvaughan/appdata/local/temp/2/sublime-svn-1360617102/SVN",
+		"/c/users/bvaughan/appdata/local/temp/2/sublime-svn-1360615470/SVN",
+		"/c/users/bvaughan/appdata/local/temp/2/sublime-svn-1360615038/SVN",
+		"/c/users/bvaughan/appdata/local/temp/2/sublime-svn-1360614401/SVN",
+		"/c/users/bvaughan/appdata/local/temp/1/sublime-svn-1360610090/SVN",
+		"/c/users/bvaughan/appdata/local/temp/1/sublime-svn-1360604441/SVN",
+		"/c/users/bvaughan/appdata/local/temp/1/sublime-svn-1360602683/SVN",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/ajaxSessions.php",
+		"/C/apache2/htdocs/aqm2/core/css/apps/wo/eav.css",
+		"/C/apache2/htdocs/aqm2/pages/wo/index.php",
+		"/C/apache2/htdocs/aqm2/.htaccess",
+		"/C/apache2/htdocs/aqm2/apps/wo/avid/index.php",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360164210/SVN",
+		"/c/users/bvaughan/appdata/local/temp/1/sublime-svn-1360106115/SVN",
+		"/C/apache2/htdocs/aqm2/core/js/pages/wo/css3-mediaqueries.js",
+		"/C/apache2/htdocs/aqm2/core/css/apps/wo/ie.css",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360009414/SVN",
+		"/C/apache2/htdocs/aqm2/core/css/apps/wo/bootstrap.min.css",
+		"/C/apache2/htdocs/aqm2/core/css/apps/wo/bootstrap.css",
+		"/C/apache2/htdocs/aqm2/core/css/apps/wo/bootstrap-responsive.css",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360007027/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360006510/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1360005960/SVN",
+		"/C/apache2/htdocs/aqm2/templates/header_wo_landing.php",
+		"/C/apache2/htdocs/aqm2/templates/header_wo.php",
+		"/C/apache2/htdocs/aqm2/core/php/helpers/BannerLoader.class.php",
+		"/C/apache2/htdocs/aqm2/apps/wo/testapp/app/index.html",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359758621/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359746367/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359734922/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359734655/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359734305/SVN",
+		"/C/apache2/htdocs/aqm2/apps/wo/testapp/dist/index.html",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/ajaxCORReports.php",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359666796/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359653698/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359652291/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359652106/SVN",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/ajaxCORAccess.php",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/ajaxCORAccessControl.php",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359580320/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359567090/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359562904/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359562052/SVN",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/ajaxUpdateOptions.php",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359475799/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359475717/SVN",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/ajaxUpdateRounding.php",
+		"/C/Users/bvaughan/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/bvaughan/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359405555/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359402862/SVN",
+		"/C/Users/bvaughan/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/apache2/htdocs/tooling/mimosa-config.coffee",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359152042/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359151178/SVN",
+		"/C/apache2/htdocs/aqm2/core/js/apps/wo/ie.js",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359149220/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359149179/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359149136/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359148873/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359148832/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359143190/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359142415/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359142368/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359126250/SVN",
+		"/C/apache2/htdocs/aqm2/apps/wo/EAV/aircraft-template.js",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359096035/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359096020/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359095990/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359057499/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359057177/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359056928/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1359056841/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358976927/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358976871/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358968984/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358968530/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358962167/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358960333/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358959513/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358957623/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358956536/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358956399/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358898362/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358896537/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358896493/SVN",
+		"/c/users/bvaughan/appdata/local/temp/sublime-svn-1358896464/SVN"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\apache2\\htdocs\\php5\\aqm\\core\\css\\pages\\wo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"</div>",
+			"jslint",
+			" class=\"topnavlink",
+			";\n",
+			"li",
+			"</div></div></span></div></li><li class=\"hoverLink\"",
+			"<li><a",
+			"<ul><li>",
+			"<li>",
+			" style=\"display: none;\"",
+			"<div class=\"droppointer\">▸</div>",
+			"echo",
+			".",
+			"FSWEB_VEND_PROD_READ",
+			"<?",
+			"doEAVReadDB",
+			"start",
+			"submitUpdatedRate",
+			"lineRateDateConflictCheck",
+			"not base",
+			"updateLineRateDate",
+			"linerateexpdate",
+			"updateLineRateDate",
+			"submitUpdatedRate",
+			"ajaxRatesSave.php",
+			"console.log",
+			"ajaxLineSave.php",
+			"ajaxRatesSave",
+			"ajaxLineSave",
+			"save",
+			"save-contract-controls",
+			"Save Contract",
+			"contractStartDate",
+			"datepick",
+			"minDate",
+			"maxDate",
+			"setFullYear",
+			"minDate",
+			"maxDate",
+			"minDate",
+			"setDate",
+			"contractStartDate",
+			"#contractStartDate",
+			"setDate",
+			".datepick(",
+			"resetbaseratebtn",
+			"clearBaseRateBtn",
+			"updateBaseRateDate",
+			"rateType",
+			"fillDefaultRates",
+			"insertBaseRateList",
+			"rateType",
+			"baseRateDateConflictCheck",
+			"updateBaseRateDate",
+			"baseratestable",
+			"rateType",
+			"baseratestable",
+			"baseratedisplayeddate ",
+			"baseratedisplayeddate",
+			"ajaxContractSearch",
+			"b_rates",
+			"insertBaseRateList",
+			"baseratestable",
+			"ajaxRatesList",
+			"baseRateDateConflictCheck",
+			"console.log",
+			"rateDateInContractDates",
+			"clearBaseRateBtn",
+			"selectBaseRate",
+			"insertBaseRateList",
+			"insertbaseratelist",
+			"rateDateInContractDates",
+			"overlap",
+			"baseRateDateConflictCheck",
+			"checkNewBaseRate",
+			"addBaseRateBtn",
+			"confirmrateadd",
+			"console",
+			"180*1000",
+			"processContractSearch",
+			"contractSearch",
+			"ContractSearch",
+			"contractSearch",
+			"contractSearh",
+			"ContractSearch",
+			"ajaxContractSearch",
+			"eav_sessions",
+			"$timer",
+			"unlock",
+			"window",
+			"locktimer",
+			"$session",
+			"locktimer",
+			"$session = new session()",
+			"locktimer",
+			"session",
+			"locktimer",
+			"startSession",
+			"// var $session = new session();",
+			"var $session = new session()",
+			"locktimer",
+			"var $contractTimer = new locktimer()",
+			"$contractTimer",
+			"$contractTime",
+			");\n",
+			"processContractSearch",
+			"contractModel",
+			"processContractSearch",
+			"processContract",
+			"$contractTimer = new locktimer()",
+			"$session = new session()",
+			"$session = new session",
+			"Disambig",
+			"$session",
+			"Disambig",
+			"DisAmbig",
+			"ajaxContractSearch",
+			"table",
+			"table .span24",
+			"sort",
+			"table-",
+			"contractNumDisAmbig",
+			"sort",
+			"table",
+			"sort",
+			"$session",
+			"contractNumDisAmbig",
+			"table-"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"var $session = new session()",
+			"$contractTimer = new locktimer()",
+			" === ",
+			" !== ",
+			"//console.log",
+			"regCursor()",
+			"waitCursor()",
+			"/aqm2/core/images/grab_hand.png",
+			"(/aqm2/core/images/redmond/images/",
+			"option value=",
+			"'",
+			"\"",
+			"-",
+			"'",
+			"<div class=\"answer\"><p>",
+			"th",
+			"'",
+			"\"",
+			"'",
+			"",
+			"Coming soon.",
+			"/aqm/",
+			"/aqm/repository/lib/images/",
+			"docs->drawLink",
+			"\"",
+			"docs->drawLink",
+			"src=\"<?php echo COREIMG; ?>spaceOdyssey/gallery/thumbs/",
+			"\nspaceOdyssey/gallery/thumbs/",
+			"jpg",
+			"spaceOdyssey",
+			" <a href=\"#top\">return to top</a>",
+			"<a href=\"#top\">return to top</a>",
+			"</p></dt>",
+			"<dt><p>",
+			"<dt>",
+			"</dt>",
+			"<dt>",
+			"</div></dd>",
+			"<dd><div>",
+			"h3",
+			"",
+			"<p></dt>",
+			"<dt><p>",
+			"<dl class=\"scrunchy\">",
+			"<?php echo $top; ?></h3>",
+			"col1_0",
+			"h2",
+			"$docs->drawLink",
+			"drawLink",
+			"$docs->linkBuilder",
+			"",
+			"$docs->drawLink",
+			"",
+			"$linkbuilder->",
+			"</a>",
+			"\">",
+			"<a href=\"",
+			"",
+			"ias.inq@nfc.usda.gov",
+			"",
+			"Staton",
+			"Franklin Gothic Book",
+			"'",
+			"\"",
+			"WEBDBREAD",
+			"WEBDBWRITE",
+			"aqm2",
+			" class=\"span3\"",
+			"",
+			"-",
+			"",
+			"'",
+			"",
+			"'",
+			"http://lorempixel.com/130/140/sports",
+			"http://lorempixel.com/140/150/sports",
+			"http://lorempixel.com/120/150/sports",
+			"http://lorempixel.com/100/150/sports",
+			"option",
+			"\"",
+			"</OPTION><OPTION",
+			"js",
+			"')",
+			"('",
+			"invalid",
+			"valid",
+			"invalid",
+			"NRM"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "navbar/app/index.html",
+					"settings":
+					{
+						"buffer_size": 4185,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1866,
+								1866
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "navbar/app/styles/main.scss",
+					"settings":
+					{
+						"buffer_size": 845,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								756,
+								756
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "navbar/app/scripts/main.js",
+					"settings":
+					{
+						"buffer_size": 533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								462,
+								462
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.jslint_result_view":
+	{
+		"height": 27.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"appconf",
+				"apps/appConfig.php"
+			],
+			[
+				"db.class",
+				"core/php/DB.class.php"
+			],
+			[
+				"app.class",
+				"core/php/App.class.php"
+			],
+			[
+				"eav/indexcontent",
+				"content/apps/wo/EAV/indexContent.php"
+			],
+			[
+				"eav/indexcontent.php",
+				"content/apps/wo/EAV/indexContent.php"
+			],
+			[
+				"eav.js",
+				"core/js/apps/wo/eav.js"
+			],
+			[
+				"layouttemplatehnf_wide.php",
+				"templates/layoutTemplateHNF_wide.php"
+			],
+			[
+				"eav/indexconte",
+				"content/apps/wo/EAV/indexContent.php"
+			],
+			[
+				"eav/index.php",
+				"apps/wo/EAV/index.php"
+			],
+			[
+				"ajaxcontract",
+				"apps/wo/EAV/ajaxContractSearch.php"
+			],
+			[
+				"ajaxcontra",
+				"apps/wo/EAV/ajaxContractLocks.php"
+			],
+			[
+				"app.",
+				"core/php/App.class.php"
+			],
+			[
+				"eav.css",
+				"core/css/apps/wo/eav.css"
+			],
+			[
+				"eav/indexcont",
+				"content/apps/wo/EAV/indexContent.php"
+			],
+			[
+				"eav/indexcon",
+				"content/apps/wo/EAV/indexContent.php"
+			],
+			[
+				"eav/indexcontet",
+				"content/apps/wo/EAV/indexContent.php"
+			],
+			[
+				"ie.js",
+				"core/js/apps/wo/ie.js"
+			],
+			[
+				"eav/i",
+				"content/apps/wo/EAV/indexContent.php"
+			],
+			[
+				"eav/index",
+				"content/apps/wo/EAV/indexContent.php"
+			],
+			[
+				"core/js/apps/wo/eav.js",
+				"core/js/apps/wo/eav.js"
+			],
+			[
+				"core/css/eav.",
+				"core/css/apps/wo/eav.css"
+			],
+			[
+				"ga.php",
+				"business/infra/ga.php"
+			],
+			[
+				"big",
+				"business/includes/bigfooter.php"
+			],
+			[
+				"vipr.css",
+				"repository/lib/styles/reskin/vipr.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/apache2/htdocs/aqm2.sublime-project"
+			],
+			[
+				" ",
+				"/C/apache2/htdocs/aqm.sublime-project"
+			],
+			[
+				"www",
+				"/C/apache2/htdocs/www.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 334.0,
+	"status_bar_visible": true
+}
